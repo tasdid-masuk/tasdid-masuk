@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tasdid Masuk</h1>
 <div align="center"> <img src="Blue Green Modern IT Support Business Professional Service Company Profile Ad Banner.jpg"> </div>
+<h1 align="center">Hi 👋, I'm Tasdid Masuk</h1>
+
 <h3 align="center">A passionate Python developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
