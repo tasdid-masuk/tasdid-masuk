@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Code Diviners**
 
-- 👨‍💻 All of my projects are available at [https://l.messenger.com/l.php?u=https%3A%2F%2F654a4f53f1e2073e390b213c--courageous-semifreddo-ba1cd7.netlify.app%2F&h=AT00hTUH8n1zAKp9CUl4VwNtX8U_rOtjDuzu6aWjYAj08SbUp_uRsP4CLzltqBX2O7_TI7RC-VBo4U4KihFKZPHvC2PX1Twu1cfo50VUJqYRauOx53DFjRFSym0SkEAgt51h1g](https://654a4f53f1e2073e390b213c--courageous-semifreddo-ba1cd7.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://654a4f53f1e2073e390b213c--courageous-semifreddo-ba1cd7.netlify.app/)
 
 - 📫 How to reach me **tasdidmasuk84@gmail.com**
 
